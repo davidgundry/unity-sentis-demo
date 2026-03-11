@@ -1,9 +1,8 @@
 using UnityEngine;
-using Unity.Sentis;
-using UnityEditor;
 using System.Linq;
 using System;
 using TMPro;
+using Unity.InferenceEngine;
 
 public class ClassifyHandwrittenDigit : MonoBehaviour
 {

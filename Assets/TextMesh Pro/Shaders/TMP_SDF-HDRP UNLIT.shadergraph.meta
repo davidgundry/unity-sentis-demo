@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dcc88d6ad50478f78ad1cd4e421f2787
+guid: f63d574838ccfb44f84acc05fed0af48
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -7,5 +7,4 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: f22407ba6b4157b4a93d0a670bd3dd57, type: 3}
-  dynamicDimConfigs: []
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
